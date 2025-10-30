@@ -1,2 +1,4 @@
-# -WebVideoGameWorkshop
-🕹️Learn with GDG on how to develop a Game on your Browser and learning the concepts of Game Development with us
+# 🕹️ WebVideoGameWorkshop 👾
+
+Video Tutorial Reference: https://www.youtube.com/watch?v=yP5DKzriqXA
+
